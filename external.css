@@ -1,0 +1,25 @@
+body{
+    align-items: center;
+
+}
+dl dt{
+    font-size: x-large;
+    font-style: italic;
+    font-weight: 200;
+}
+dl dd{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+table{
+    border: 1px solid blueviolet;
+    margin: 20px auto; 
+   
+}
+th,td{
+    border: 2px double blueviolet;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+ 
